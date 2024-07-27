@@ -13,14 +13,14 @@ pip install pygame
 
 ```
 
-##Cloning the repository
+## Cloning the repository
 ```sh
 git clone https://github.com/YusufTheDev/Meteor-Defender.git
 cd Meteor-Defender
 
 ```
 
-##Running the Game
+## Running the Game
 ```
 python game.py
 
