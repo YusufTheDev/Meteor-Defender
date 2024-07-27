@@ -6,7 +6,7 @@
 
 - **Real-time Meteor Defense**: Use precise controls to intercept and destroy meteors before they reach your space station.
 - **Progressive Difficulty**: Experience a range of difficulty levels as the game progresses, with faster and more numerous meteors.
-- **Dynamic Graphics and Sound**: Enjoy a visually appealing interface with immersive sound effects that enhance the gaming experience.
+- **Dynamic Graphics**: Enjoy a visually appealing interface that enhance the gaming experience.
 - **High Scores and Achievements**: Compete for the highest scores and unlock achievements as you master the game.
 
 ## Getting Started
